@@ -74,4 +74,4 @@ For each game, find the minimum set of cubes that must have been present. What i
 </details>
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
-[AoC]: https://adventofcode.com/
+[AoC]: https://adventofcode.com/2023/day/2
