@@ -59,7 +59,6 @@ class Part1
         {
             try
             {
-                // Parse each number, format it with at least two digits, and store it back in the array
                 numbers[i] = int.Parse(numbers[i]).ToString("D2");
             }
             catch (Exception e)
