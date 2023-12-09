@@ -96,3 +96,6 @@ Analyze your OASIS report and extrapolate the next value for each history. What 
   <summary>Click to reveal the answer</summary>
     Your puzzle answer was 1916822650.
 </details>
+
+[//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
+[AoC]: https://adventofcode.com/2023/day/9
