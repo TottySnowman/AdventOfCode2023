@@ -1,5 +1,7 @@
-class Part1{
-    public static void Result(){
-        
+class Part1
+{
+    public static void Result()
+    {
+
     }
 }
