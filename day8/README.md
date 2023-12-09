@@ -40,5 +40,10 @@ ZZZ = (ZZZ, ZZZ)
 
 Starting at AAA, follow the left/right instructions. How many steps are required to reach ZZZ?
 
+<details>
+  <summary>Click to reveal the answer</summary>
+    Your puzzle answer was 19199.
+</details>
+
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [AoC]: https://adventofcode.com/2023/day/8
