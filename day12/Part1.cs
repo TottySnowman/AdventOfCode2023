@@ -16,7 +16,6 @@ class Part1
         }
 
         var grid = new string[allLines.Length, allLines[0].Length];
-        Console.WriteLine("ddd");
 
     }
 }
